@@ -1,0 +1,24 @@
+{
+  "name": "@kalijonn/react-calendly",
+  "version": "1.0.0",
+  "description": "react component to embed calendly into your project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalijonn/react-calendly.git"
+  },
+  "keywords": [
+    "calendly",
+    "react",
+    "react-calendly"
+  ],
+  "author": "Kali",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kalijonn/react-calendly/issues"
+  },
+  "homepage": "https://github.com/kalijonn/react-calendly#readme"
+}
