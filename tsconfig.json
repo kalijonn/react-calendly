@@ -3,7 +3,6 @@
 		"target": "es2016",
 		"jsx": "react",
 		"module": "commonjs",
-		"outDir": "build",
 		"allowSyntheticDefaultImports": true,
 		"esModuleInterop": true,
 		"forceConsistentCasingInFileNames": true,
