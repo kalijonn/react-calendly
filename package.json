@@ -1,24 +1,35 @@
 {
-  "name": "@kalijonn/react-calendly",
-  "version": "1.0.0",
-  "description": "react component to embed calendly into your project",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kalijonn/react-calendly.git"
-  },
-  "keywords": [
-    "calendly",
-    "react",
-    "react-calendly"
-  ],
-  "author": "Kali",
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/kalijonn/react-calendly/issues"
-  },
-  "homepage": "https://github.com/kalijonn/react-calendly#readme"
+	"name": "@kalijonn/react-calendly",
+	"version": "1.0.0",
+	"description": "react component to embed calendly into your project",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\"",
+		"build": "tsc"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kalijonn/react-calendly.git"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"calendly",
+		"react",
+		"react-calendly"
+	],
+	"author": "kalijonn",
+	"license": "Apache-2.0",
+	"bugs": {
+		"url": "https://github.com/kalijonn/react-calendly/issues"
+	},
+	"homepage": "https://github.com/kalijonn/react-calendly#readme",
+	"devDependencies": {
+		"@types/react": "^18.0.14",
+		"@types/react-dom": "^18.0.5",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0",
+		"typescript": "^4.7.4"
+	}
 }
