@@ -1,6 +1,6 @@
 {
 	"name": "@kalijonn/react-calendly",
-	"version": "1.0.0",
+	"version": "1.0.3",
 	"description": "react component to embed calendly into your project",
 	"main": "build/index.js",
 	"types": "build/index.d.ts",
