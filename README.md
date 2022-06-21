@@ -13,7 +13,7 @@ npm install @kalijonn/react-calendly
 ## Usage
 
 ```javascript
-import { Calendly } from '@kalijonn/calendly';
+import { Calendly } from '@kalijonn/react-calendly';
 ```
 
 ## Contributing
