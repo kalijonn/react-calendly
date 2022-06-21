@@ -1,15 +1,16 @@
 {
 	"name": "@kalijonn/react-calendly",
-	"version": "1.0.6",
+	"version": "1.0.8",
 	"description": "react component to embed calendly into your project",
 	"main": "build/index.js",
 	"types": "build/index.d.ts",
 	"files": [
-		"build/**"
+		"build"
 	],
 	"scripts": {
 		"test": "echo \"Error: no test specified\"",
-		"build": "tsc"
+		"build": "tsc",
+		"prepublish": "npm run build"
 	},
 	"repository": {
 		"type": "git",
