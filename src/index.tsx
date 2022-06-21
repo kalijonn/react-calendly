@@ -68,9 +68,3 @@ interface CalendlyProps<T = any> {
 }
 
 export default Calendly;
-
-<Calendly
-	username='kalijonn'
-	eventSlug='kalijonn'
-	prefill={{ firstName: 'Kali', lastName: 'Charan' }}
-></Calendly>;
